@@ -1,3 +1,6 @@
 en.openfoodfacts.org.products.tsv
 *~
 .ipynb_checkpoints
+/data_gathering/scrapped_data.txt
+/data_gathering/data.csv
+/data_gathering/config.json
